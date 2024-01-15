@@ -1,0 +1,5 @@
+# How to setup a NodeJS configuration in CodeSpaces
+https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-nodejs-project-for-codespaces
+
+# HTML5 Cheatsheet for referral
+https://html.com/wp-content/uploads/html5_cheat_sheet_tags.png
