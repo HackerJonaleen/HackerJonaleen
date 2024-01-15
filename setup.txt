@@ -6,5 +6,7 @@ Modifications (January 14th 2024 @ 5:47 PM):
 -> REMINDER: It's Elise's birthday in 2 days everyone! BAKA!
 -> Hey Queenie, first you should go to VSCode https://code.visualstudio.com/docs/editor/vscode-web
 
+-> We recommend that you configure your own dev container to include all of the tools and scripts your project needs. This will ensure a fully reproducible environment for all GitHub Codespaces users in your repository.
+
 # HTML5 Cheatsheet for referral
 https://html.com/wp-content/uploads/html5_cheat_sheet_tags.png
