@@ -2,5 +2,9 @@ From@HackerJoJo->@Epsilon-> HELPING QUEENIE WITH CODESPACES:
 # How to setup a NodeJS configuration in CodeSpaces
 https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-nodejs-project-for-codespaces
 
+Modifications (January 14th 2024 @ 5:47 PM):
+-> REMINDER: It's Elise's birthday in 2 days everyone! BAKA!
+-> Hey Queenie, first you should go to VSCode https://code.visualstudio.com/docs/editor/vscode-web
+
 # HTML5 Cheatsheet for referral
 https://html.com/wp-content/uploads/html5_cheat_sheet_tags.png
