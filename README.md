@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @HackerJonaleen
-- 👀 I’m interested in Duality
+- 👋 Hi, I’m the @EvilClown
+- 👀 I’m interested in curbstomping noobs
 - 🌱 I’m currently learning Duality
-- 💞️ I’m looking to collaborate on Jo's hairstyle
+- 💞️ I’m looking to collaborate on mushrooms
 - 📫 How to reach me: Call out my [Name]
 - 😄 Pronouns: Us/We
-- ⚡ Fun fact: My boys are my [Life]
+- ⚡ Fun fact: My Jynx is my [Life]
 
-<img src="https://www.billboard.com/wp-content/uploads/media/the-weeknd-call-out-my-name-vid-2018-billboard-1548.jpg"></img>
+<img src="https://s3.amazonaws.com/image-products/82939/82939-1024.jpg"></img>
 
 <!---
 HackerJonaleen/HackerJonaleen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
