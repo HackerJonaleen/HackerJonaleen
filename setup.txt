@@ -4,7 +4,15 @@ https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/add
 
 Modifications (January 14th 2024 @ 5:47 PM):
 -> REMINDER: It's Elise's birthday in 2 days everyone! BAKA!
--> Hey Queenie, first you should go to VSCode https://code.visualstudio.com/docs/editor/vscode-web
+-> Hey Queenie, first you should go to VSCode https://code.visualstudio.com/docs/editor/vscode-web and become familiar with
+   how VS Code is layed out and what the main windows are.
+-> I'll give everyone else a quick rundown of how [WE] solved the error you were receiving. You don't have to worry about it!
+
+Overview:
+-> NodeJS is a back-end server, not a front-end.
+-> We can use WebPack to bundle the application
+-> The easiest way to get Queenie up and running in CodeSpaces is to serve the HTML with the built-in Node web server:
+  https://stackoverflow.com/questions/35995273/how-to-run-html-file-using-node-js
 
 -> We recommend that you configure your own dev container to include all of the tools and scripts your project needs. This will ensure a fully reproducible environment for all GitHub Codespaces users in your repository.
 
