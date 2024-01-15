@@ -7,6 +7,14 @@ Modifications (January 14th 2024 @ 5:47 PM):
 -> Hey Queenie, first you should go to VSCode https://code.visualstudio.com/docs/editor/vscode-web and become familiar with
    how VS Code is layed out and what the main windows are.
 -> I'll give everyone else a quick rundown of how [WE] solved the error you were receiving. You don't have to worry about it!
+-> [WE] says...
+   /* You can't run the debugger and your server on the same port.
+   Using --inspect-brk=localhost:3000 tells it to run the debugger on port 3000
+   which is where your server already is. Why are you passing a port number for
+   --inspect-brk at all?
+
+ From https://stackoverflow.com/questions/49766500/websockets-request-was-expected-error-when-using-inspect-brk-option
+ – jfriend00 Apr 11, 2018 at 4:44  */
 
 Overview:
 -> NodeJS is a back-end server, not a front-end.
@@ -14,7 +22,10 @@ Overview:
 -> The easiest way to get Queenie up and running in CodeSpaces is to serve the HTML with the built-in Node web server:
   https://stackoverflow.com/questions/35995273/how-to-run-html-file-using-node-js
 
+NSA Message:
 -> We recommend that you configure your own dev container to include all of the tools and scripts your project needs. This will ensure a fully reproducible environment for all GitHub Codespaces users in your repository.
+-> @Nate for a working environment. Thanks for all your help Jo and Jo!
+
 
 # HTML5 Cheatsheet for referral
 https://html.com/wp-content/uploads/html5_cheat_sheet_tags.png
