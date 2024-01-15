@@ -6,7 +6,7 @@
 - 😄 Pronouns: Queenie
 - ⚡ Fun fact: Guys
 
-<img src="" alt="Queenie"></img>
+<img src="https://github.com/HackerJonaleen/HackerJonaleen/blob/queenie/Queenie.jpg" alt="Queenie"></img>
 
 <!---
 HackerJonaleen/Queenie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
