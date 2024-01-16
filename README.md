@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @HackerJonaleen
-- 👀 I’m interested in Duality
-- 🌱 I’m currently learning Duality
+- 👋 привет
+- 👀 I’m interested in Balancing the Game
+- 🌱 I’m currently learning [ ]
 - 💞️ I’m looking to collaborate on Jo's hairstyle
-- 📫 How to reach me: Call out my [Name]
-- 😄 Pronouns: Us/We
-- ⚡ Fun fact: My boys are my [Life]
+- 📫 How to reach me: Call me
+- 😄 Pronouns: я
+- ⚡ Fun fact: [placeholder]
 
 <img src="https://www.billboard.com/wp-content/uploads/media/the-weeknd-call-out-my-name-vid-2018-billboard-1548.jpg"></img>
 
